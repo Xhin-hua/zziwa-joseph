@@ -1,0 +1,81 @@
+
+    
+        /* Dark theme styles */
+body {
+    background-color: #2f2f2f; /* Dark gray background */
+    color: #ffffff; /* White text color */
+    font-family: Arial, sans-serif;
+}
+
+header, nav, main, footer {
+    padding: 20px;
+    margin: 20px;
+    background-color: #333333; /* Darker gray background for sections */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #ffffff; /* White link color */
+    text-decoration: none;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #0020FF; 
+}
+h2 {
+
+    font-family:  Courier New;
+}
+
+/* Readability improvements */
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #040064;
+    text-align: center;
+    font-size: 14px;
+}
+
+section {
+    
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+ 
+ .zziwa {
+     
+    background-image: url('images/jose1.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+ }
+img {
+      image-rendering: -webkit-optimize-contrast;
+     border-radius: 20px:
+}
